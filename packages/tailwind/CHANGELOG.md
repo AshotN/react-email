@@ -1,5 +1,11 @@
 # @react-email/tailwind
 
+## 1.0.1-canary.0
+
+### Patch Changes
+
+- e718f53: Fix TailwindConfig's type broken when tailwindcss is not installed on the user's project
+
 ## 1.0.0
 
 ### Major Changes
